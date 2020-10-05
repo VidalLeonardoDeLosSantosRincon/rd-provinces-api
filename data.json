@@ -1,0 +1,417 @@
+{
+    "status": 200,
+    "data": {
+        "provinces": [
+            {
+                "code": 1,
+                "name": "Azua",
+                "region": "Valdesia",
+                "main_municipality": "Azua de Compostela",
+                "municipalities": [
+                    "Azua de Compostela", 
+                    "Las Charcas", 
+                    "Las Yayas de Viajama",
+                    "Padre Las Casas",
+                    "Peralta",
+                    "Sabana Yegua", 
+                    "Pueblo Viejo", 
+                    "Tábara Arriba", 
+                    "Guayabal",
+                    "Estebanía"
+                ]
+            },
+            {
+                "code": 2,
+                "name": "Bahoruco",
+                "region": "Enriquillo",
+                "main_municipality": "Neiba",   
+                "municipalities": [
+                    "Neiba", 
+                    "Galván", 
+                    "Tamayo", 
+                    "Villa Jaragua",
+                    "Los Ríos"
+                ]  
+            },
+            {
+                "code": 3,
+                "name": "Barahona",
+                "region": "Enriquillo",
+                "main_municipality": "Santa Cruz de Barahona",
+                "municipalities": [ 
+                    "Santa Cruz de Barahona",
+                    "Cabral", 
+                    "Enriquillo", 
+                    "Paraíso", 
+                    "Vicente Noble", 
+                    "Peñón", 
+                    "Polo", 
+                    "La Ciénaga", 
+                    "Las Salinas", 
+                    "Jaquimeyes",
+                    "Fundación"
+                ]
+            },
+            {
+                "code": 4,
+                "name": "Dajabón",
+                "region": "Cibao Noroeste",
+                "main_municipality": "Dajabón",
+                "municipalities": [
+                    "Dajabón",
+                    "Loma de Cabrera", 
+                    "Partido", 
+                    "Restauración",
+                    "El Pino"
+                ]
+            },
+            {
+                "code": 5,
+                "name": "Distrito Nacional",
+                "region":"Ozama",
+                "main_municipality": "Santo Domingo",
+                "municipalities": [
+                    "Santo Domingo"
+                ]
+            },            
+            {
+                "code": 6,
+                "name": "Duarte",
+                "region": "Cibao Nordeste",
+                "main_municipality": "San Francisco de Macorís",
+                "municipalities": [
+                    "San Francisco de Macorís", 
+                    "Arenoso", 
+                    "Castillo", 
+                    "Pimentel", 
+                    "Villa Riva", 
+                    "Las Guaranas", 
+                    "Eugenio María de Hostos"
+                ]
+            },            
+            {
+                "code": 7,
+                "name": "Elías Piña",
+                "region": "El Valle",
+                "main_municipality": "Comendador",
+                "municipalities": [
+                    "Comendador",
+                    "Bánica",
+                    "El Llano",
+                    "Hondo Valle",
+                    "Juan Santiago",
+                    "Pedro Santana"
+                ]
+            },
+            {
+                "code": 8,
+                "name": "El Seibo",
+                "region": "Yuma",
+                "main_municipality": "Santa Cruz de El Seibo",
+                "municipalities": [
+                    "Santa Cruz de El Seibo", 
+                    "Miches"
+                ]
+            },
+            {
+                "code": 9,
+                "name": "Espaillat",
+                "region": "Cibao Norte",
+                "main_municipality": "Moca",
+                "municipalities": [
+                    "Moca", 
+                    "Cayetano Germosén",
+                    "Gaspar Hernández",
+                    "Jamao al Norte"
+                ]
+            },
+            {
+                "code": 10,
+                "name": "Hato Mayor",
+                "region": "Higuamo",
+                "main_municipality": "Hato Mayor del Rey",
+                "municipalities": [
+                    "Hato Mayor del Rey", 
+                    "Sabana de la Mar", 
+                    "El Valle"
+                ]
+            },            
+            {
+                "code": 11,
+                "name": "Hermanas Mirabal",
+                "region": "Cibao Nordeste",
+                "main_municipality": "Salcedo",
+                "municipalities": [
+                    "Salcedo", 
+                    "Tenares", 
+                    "Villa Tapia"
+                ]
+            },            
+            {
+                "code": 12,
+                "name": "Independencia",
+                "region": "Enriquillo",
+                "main_municipality": "Jimaní", 
+                "municipalities": [
+                    "Jimaní", 
+                    "Duvergé", 
+                    "La Descubierta", 
+                    "Postrer Río", 
+                    "Cristóbal",
+                    "Mella"
+                ]
+            },
+            {
+                "code": 13,
+                "name": "La Altagracia",
+                "region": "Yuma",
+                "main_municipality": "Salvaleón de Higüey",
+                "municipalities":  [
+                    "Salvaleón de Higüey",
+                    "San Rafael del Yuma" 
+                ]
+            },
+            {
+                "code": 14,
+                "name": "La Romana",
+                "region": "Yuma",
+                "main_municipality": "La Romana",
+                "municipalities": [
+                    "La Romana", 
+                    "Guaymate", 
+                    "Villa Hermosa"
+                ]
+            },
+            {
+                "code": 15,
+                "name": "La Vega",
+                "region": "Cibao Sur",
+                "main_municipality": "La Vega",
+                "municipalities": [
+                    "La Vega", 
+                    "Constanza", 
+                    "Jarabacoa", 
+                    "Jima Abajo"
+                ]
+            },            
+            {
+                "code": 16,
+                "name": "María Trinidad Sánchez",
+                "region": "Cibao Nordeste",
+                "main_municipality": "Nagua", 
+                "municipalities": [
+                    "Nagua", 
+                    "Cabrera", 
+                    "El Factor", 
+                    "Río San Juan"
+                ]
+            },
+            {
+                "code": 17,
+                "name": "Monseñor Nouel",
+                "region": "Cibao Sur",
+                "main_municipality": "Bonao",
+                "municipalities": [
+                    "Bonao",
+                    "Maimón",
+                    "Piedra Blanca"
+                ]
+            },
+            {
+                "code": 18,
+                "name": "Monte Cristi",
+                "region": "Cibao Noroeste",
+                "main_municipality": "San Fernando de Monte Cristi",
+                "municipalities": [
+                    "San Fernando de Monte Cristi",
+                    "Pepillo Salcedo", 
+                    "Castañuela", 
+                    "Villa Vásquez", 
+                    "Guayubín",
+                    "Las Matas de Santa Cruz"
+                ]
+            },
+            {
+                "code": 19,
+                "name": "Monte Plata",
+                "region": "Higuamo",
+                "main_municipality": "Monte Plata",
+                "municipalities": [
+                    "Monte Plata", 
+                    "Bayaguana", 
+                    "Sabana Grande de Boyá", 
+                    "Yamasá",
+                    "Peralvillo"
+                ]
+            },            
+            {
+                "code": 20,
+                "name": "Pedernales",
+                "region": "Enriquillo",
+                "main_municipality": "Pedernales",
+                "municipalities": [
+                    "Pedernales",
+                    "Oviedo" 
+                ]
+            },
+            {
+                "code": 21,
+                "name": "Peravia",
+                "region": "Valdesia",
+                "main_municipality": "Baní",
+                "municipalities": [
+                    "Baní", 
+                    "Nizao"
+                ]
+            },
+            {
+                "code": 22,
+                "name": "Puerto Plata",
+                "region": "Cibao Norte",
+                "main_municipality": "San Felipe de Puerto Plata",
+                "municipalities": [
+                    "San Felipe de Puerto Plata", 
+                    "Altamira", 
+                    "Guananico", 
+                    "Imbert", 
+                    "Los Hidalgos", 
+                    "Luperón, Sosúa", 
+                    "Villa Isabela", 
+                    "Villa Montellano"
+                ]
+            },
+            {
+                "code": 23,
+                "name": "Samaná",
+                "region": "Nordeste",
+                "main_municipality": "Santa Bárbara de Samaná",
+                "municipalities": [
+                    "Santa Bárbara de Samaná",
+                    "Sánchez", 
+                    "Las Terrenas"
+                ]
+            },
+            {
+                "code": 24,
+                "name": "San Cristóbal",
+                "region": "Valdesia",
+                "main_municipality": "San Cristóbal",
+                "municipalities": [
+                    "San Cristóbal", 
+                    "Sabana Grande de Palenque", 
+                    "Bajos de Haina", 
+                    "Cambita Garabitos", 
+                    "Villa Altagracia", 
+                    "Yaguate", 
+                    "San Gregorio de Nigua",
+                    "Los Cacaos"
+                ]
+            },            
+            {
+                "code": 25,
+                "name": "San José de Ocoa",
+                "region": "Valdesia",
+                "main_municipality": "San José de Ocoa",
+                "municipalities": [
+                    "San José de Ocoa", 
+                    "Sabana Larga", 
+                    "Rancho Arriba"
+                ]
+            },            
+            {
+                "code": 26,
+                "name": "San Juan",
+                "region": "El Valle",
+                "main_municipality": "San Juan de la Maguana",
+                "municipalities": [
+                    "San Juan de la Maguana", 
+                    "Bohechío", 
+                    "El Cercado", 
+                    "Juan de Herrera", 
+                    "Las Matas de Farfán",
+                    "Vallejuelo"
+                ]
+            },
+            {
+                "code": 27,
+                "name": "San Pedro de Macorís",
+                "region": "Higuamo",
+                "main_municipality": "San Pedro de Macorís",
+                "municipalities": [
+                    "San Pedro de Macorís",
+                    "San José de los Llanos", 
+                    "Ramón Santana", 
+                    "Consuelo", 
+                    "Quisqueya", 
+                    "Guayacanes"
+                ]
+            },
+            {
+                "code": 28,
+                "name": "Sánchez Ramírez",
+                "region": "Cibao Sur",
+                "main_municipality": "Cotuí",
+                "municipalities": [
+                    "Cotuí", 
+                    "Fantino", 
+                    "La Mata",
+                    "Cevicos" 
+                ]
+            },
+            {
+                "code": 29,
+                "name": "Santiago",
+                "region": "Cibao Norte",
+                "main_municipality": "Santiago de los Caballeros",
+                "municipalities": [
+                    "Santiago de los cabaleros",
+                    "Jánico", 
+                    "San José de las Matas", 
+                    "Tamboril", 
+                    "Villa Bisonó", 
+                    "Villa González", 
+                    "Licey al Medio", 
+                    "Puñal",
+                    "Sabana Iglesia"    
+                ]
+            },
+            {
+                "code": 30,
+                "name": "Santiago Rodríguez",
+                "region": "Cibao Noroeste",
+                "main_municipality": "San Ignacio de Sabaneta",
+                "municipalities": [
+                    "San Ignacio de Sabaneta", 
+                    "Villa los Almácigos", 
+                    "Monción"
+                ]
+            },
+            {
+                "code": 31,
+                "name": "Santo Domingo",
+                "region":"Ozama",
+                "main_municipality": "Santo Domingo Este",
+                "municipalities": [
+                    "Santo Domingo Este", 
+                    "Santo Domingo Oeste", 
+                    "Santo Domingo Norte", 
+                    "Boca Chica", 
+                    "San Antonio de Guerra", 
+                    "Los Alcarrizos",
+                    "Pedro Brand"
+                ]
+            },             
+            {
+                "code": 32,
+                "name": "Valverde",
+                "region": "Cibao Noroeste",
+                "main_municipality": "Santa Cruz de Mao",
+                "municipalities": [
+                    "Santa Cruz de Mao", 
+                    "Esperanza", 
+                    "Laguna Salada"
+                ]
+            }
+        ]
+    }
+}
