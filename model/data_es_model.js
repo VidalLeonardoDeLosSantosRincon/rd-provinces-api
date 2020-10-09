@@ -5,8 +5,8 @@
             nombre: nombre,
             "región": region,
             coordenadas: {
-                longitud: coordenadas.longitud,
-                latitud: coordenadas.latitud
+                longitud: coordenadas.longitude,
+                latitud: coordenadas.latitude
             },
             municipio_cabecera: municipio_cabecera,
             municipios: municipios
@@ -18,8 +18,8 @@
             codigo: codigo,
             nombre: nombre,
             coordenadas: {
-                longitud: coordenadas.longitud,
-                latitud: coordenadas.latitud
+                longitud: coordenadas.longitude,
+                latitud: coordenadas.latitude
             }
         };
     }
